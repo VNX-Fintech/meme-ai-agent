@@ -1,5 +1,8 @@
 # MemeX: Benchmarking Financial Analysis with Retrieval-Augmented Stock-Chain Framework
 
+<p align="center">
+  <img src="./MemeX.jpg" alt="MemeX" width="300">
+</p>
 
 ## Disclaimer
 
